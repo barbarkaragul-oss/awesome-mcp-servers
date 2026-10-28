@@ -5092,3 +5092,5 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
+- [barbarkaragul-oss/agentwall](https://github.com/barbarkaragul-oss/agentwall) - Zero-dependency Go runtime firewall, real-time secret DLP, and OS-level process sandbox for AI agents and MCP servers.
