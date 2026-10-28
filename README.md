@@ -5093,4 +5093,4 @@ Now Claude can answer questions about writing MCP servers and how they work
  </picture>
 </a>
 
-- [barbarkaragul-oss/agentwall](https://github.com/barbarkaragul-oss/agentwall) 🏎️ 🏠 🍎 🪟 🐧 - Zero-dependency Go runtime firewall, real-time secret DLP, and OS-level process sandbox for AI agents and MCP servers.
+- [barbarkaragul-oss/agentwall](https://github.com/barbarkaragul-oss/agentwall) 🏎️ 🏠 🍎 🪟 🐧 - Zero-dependency Go runtime firewall, real-time secret DLP, and OS-level process sandbox for AI agents and MCP servers. [![barbarkaragul-oss/agentwall MCP server](https://glama.ai/mcp/servers/barbarkaragul-oss/agentwall/badges/score.svg)](https://glama.ai/mcp/servers/barbarkaragul-oss/agentwall)
